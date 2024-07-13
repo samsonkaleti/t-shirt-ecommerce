@@ -16,7 +16,7 @@ const Content = () => {
               height={200}
               width={300}
               alt="paint"
-              className="opacity-70"
+              className="opacity-80"
             />
             <p className="lg:w-1/2 w-full leading-relaxed text-gray-500">
               "Discover the art of living with intention, as our vision brings

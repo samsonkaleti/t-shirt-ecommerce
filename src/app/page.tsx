@@ -11,7 +11,7 @@ const Home = () => {
           src={banner2}
           alt={"bannerImage"}
           objectFit="cover"
-          className="object-cover opacity-50  h-full w-full rounded-md"
+          className="object-cover opacity-80  h-full w-full rounded-md"
         />
       </div>
       <Content />
